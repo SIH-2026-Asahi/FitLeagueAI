@@ -1,6 +1,5 @@
 # Welcome to FitLeagueAI
- //Intro to Project
- FitLeague AI is an AI-powered fitness coaching and competitive workout platform designed to turn bodyweight training into an interactive, gamified sport.
+ FitLeague AI is an AI-powered fitness coaching ,form correction and competitive workout platform designed to turn bodyweight training into an interactive, gamified sport.
  
 ## Key Project Features
  -Uses device camera to count reps during exercises
