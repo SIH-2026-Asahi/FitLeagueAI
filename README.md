@@ -3,10 +3,15 @@
  
 ## Key Project Features
  -Uses device camera to count reps during exercises
+ 
  -automatically detects the type of exercise
+
  -detects your full body and tells you to update your posture with ai based commands
+ 
  -Progress is saved locally in browser ,smoothly works on both laptop camera and mobile camera though Vercell hosting
+ 
  -lets you perform group activities with your friends by joining a group
+ 
  -counts your daily streak along with your progress counter, for daily consistency
  
  --SOS feature, if any injury takes place during the workout , user can make a  "X" symbol , do a 'cross action' with their arms which will be detected and the emergency contact number can be called , and neaby hospitals will pop up at one-tap
